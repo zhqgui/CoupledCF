@@ -3,7 +3,7 @@
 This is our implementation for the paper:
 Zhang Q, Cao L, Zhu C, et al. CoupledCF: Learning Explicit and Implicit User-item Couplings in Recommendation for Deep Collaborative Filtering[C]//IJCAI. 2018: 3662-3668.
 
-# Please cite our IJCAI'18 paper if you use our codes. Thanks!
+## Please cite our IJCAI'18 paper if you use our codes. Thanks!
 
 # The structure of code is as below:
 
