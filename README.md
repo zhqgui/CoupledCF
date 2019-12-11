@@ -21,6 +21,7 @@ Zhang Q, Cao L, Zhu C, et al. CoupledCF: Learning Explicit and Implicit User-ite
 * tafeng: Tafeng dataset.
 * Pretrain: Predicted results.
 
+The code is implemented in Python based on Keras 2.0.8. It requires pydot and scikit-learn packages to run the code.
 
 Four variants CoupledCF models: DeepCF, lCoupledCF, gCoupledCF and CoupledCF. 
 change the value of 'theModel' with the key in 'model_dict' to load different models
